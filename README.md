@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kuldeep Patil</h1>
-<h3 align="center">Data Scientist | Aspiring Data Analyst | Turning raw data into decisions</h3>
+<h1 align="center">Hi 👋, I'm Kuldeep Patidar</h1>
+<h3 align="center">Data Scientist | Aspiring Data Scientist | Turning raw data into decisions</h3>
 
 <p align="center">
   <a href="https://kuldeep9981.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
