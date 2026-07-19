@@ -53,10 +53,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kuldeep9981&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep9981&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeep9981&theme=tokyonight&hide_border=true">
@@ -64,4 +60,4 @@
 
 ---
 
-<p align="center"><i>Thanks for stopping by — let's connect if you have a Data Analyst opportunity! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — let's connect if you have a Data Analyst/Scientist opportunity! 🚀</i></p>
