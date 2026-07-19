@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://kuldeep9981.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://linkedin.com/in/kuldeep-patidar-mp14" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-success?style=for-the-badge">
+  
 </p>
 
 ---
